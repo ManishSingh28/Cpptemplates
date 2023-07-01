@@ -1,1 +1,3 @@
-# Cpptemplates
+# CPPtemplates
+
+some example CPP templates
